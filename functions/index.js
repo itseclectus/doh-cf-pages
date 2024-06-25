@@ -1,5 +1,5 @@
-const doh = 'https://security.cloudflare-dns.com/dns-query'
-const dohjson = 'https://security.cloudflare-dns.com/dns-query'
+const doh = 'https://dns.nextdns.io/67e782'
+const dohjson = 'https://dns.nextdns.io/67e782'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
